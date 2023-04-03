@@ -1,0 +1,26 @@
+Planos de negócios:
+
+Sumário Executivo
+Descrição da empresa: apresentação de sua consultoria de tecnologia, incluindo os serviços oferecidos e sua missão.
+Oportunidade de mercado: análise do mercado de consultoria de tecnologia, com foco em DevOps, suporte e QA.
+Objetivos: definição de metas de curto e longo prazo para o negócio.
+Equipe: apresentação dos sócios e funcionários, com as habilidades e experiências relevantes.
+Análise de Mercado
+Tendências do mercado: apresentação das tendências e oportunidades do mercado de consultoria de tecnologia, com foco em DevOps, suporte e QA.
+Análise da concorrência: descrição das empresas concorrentes, seus serviços, preços e pontos fortes e fracos.
+Clientes potenciais: identificação dos clientes-alvo, incluindo empresas de pequeno, médio e grande porte que precisam de serviços de consultoria em tecnologia.
+Serviços
+Descrição detalhada dos serviços oferecidos pela consultoria de tecnologia, com foco em DevOps, suporte e QA.
+Preços: definição dos preços dos serviços, considerando a concorrência, custos operacionais e margem de lucro desejada.
+Plano de Marketing
+Estratégias de marketing: definição de estratégias de marketing para atrair clientes, incluindo publicidade online, marketing de conteúdo, marketing de mídia social e participação em eventos do setor.
+Identidade visual: criação da identidade visual da empresa, incluindo logotipo, site e redes sociais.
+Relacionamento com clientes: definição de estratégias para manter e fidelizar clientes, como atendimento personalizado e feedback constante.
+Operações e Gestão
+Estrutura operacional: descrição da estrutura operacional da empresa, incluindo recursos humanos, tecnológicos e físicos necessários.
+Processos: definição dos processos de trabalho para garantir a qualidade dos serviços prestados e a satisfação do cliente.
+Gestão financeira: definição dos processos financeiros, incluindo orçamento, fluxo de caixa, previsão de vendas e despesas.
+Projeções Financeiras
+Receita: projeção de receitas para os próximos 3 anos, com base nos preços dos serviços e expectativa de crescimento do mercado.
+Custos: estimativa de custos operacionais, incluindo salários, aluguel, marketing e outros.
+Lucro: projeção de lucro líquido, com base nas projeções de receita e custos.
